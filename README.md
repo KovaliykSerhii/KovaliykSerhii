@@ -21,8 +21,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
-- :telescope: I dream of working as a Software Tester. 
+I am a Front-end web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- :telescope: I dream of working as a web dev. 
 
 - :seedling: Exploring Android Development and Web dev. 
 
