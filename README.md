@@ -3,9 +3,7 @@
 </div>
 <div id="badges">
   
-  <a href="https://t.me/InfoSKovaliyk_bot">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+ 
   <a href="https://instagram.com/kovaliyk_serhii?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
