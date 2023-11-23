@@ -20,11 +20,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front-end web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
-- :telescope: I dream of working as a web dev. 
 
-- :seedling: Exploring Android Development and Web dev. 
-
-- :zap: In my free time, I improving my coding skills, and read techical literature , and watching  an anime 😁.
 
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](kovaliykserhii@gmail.com)
 --------
