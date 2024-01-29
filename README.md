@@ -1,13 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd0OTFyeTZvc252dWN6aGZ5MWJ6dHV0ZXExaXB5MHFrazh2YzU0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0218ft4yXkI5O0pNn6/giphy.gif" width="350"/>
 </div>
-<div id="badges">
-  
- 
-  <a href="https://instagram.com/kovaliyk_serhii?igshid=YmMyMTA2M2Y=">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=KovaliykSerhii&style=flat-square&color=blue" alt=""/>
+
+
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
