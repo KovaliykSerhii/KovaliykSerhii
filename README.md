@@ -25,7 +25,6 @@
 I'm a developer focused on building **intelligent systems** — from AI agents and LLM-powered pipelines to cross-platform native applications and data-driven backends. I enjoy bridging the gap between low-level performance and high-level AI abstractions.
 
 - 🤖 Working with **AI Agents**, LLM orchestration, and RAG pipelines
-- 🗄️ Designing and optimizing **relational & vector databases**
 - ⚙️ Building **cross-platform applications** in C++ and C#
 - 🌐 Crafting **web experiences** from frontend to API layer
 - 📍 Based in **Ukraine**
@@ -48,9 +47,7 @@ I'm a developer focused on building **intelligent systems** — from AI agents a
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Web Development
